@@ -14,7 +14,7 @@ dependencies:
   flutter:
     sdk: flutter
   transparent_image: ^2.0.1
-  get_thumbnail_video: ^0.6.1
+  get_thumbnail_video: ^0.7.3
   video_player: ^2.9.1
   cross_file: ^0.3.4+2
 
